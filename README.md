@@ -1,13 +1,13 @@
 # Wiki
 
-Central repository for **Team 32: **
+Central repository for **Team 32:**
 
 ## Quick links:
 1. Documentation and deliverables can be found on the Wiki
-2. Repo for Swit development:
-3. Repo for Flutter development:
+2. Repo for Swift development: https://github.com/Moviles-2025-20/Swift
+3. Repo for Flutter development: https://github.com/Moviles-2025-20/Flutter
 4. Repo for Backend:
 5. Repo for Analytics:
-6. The product backlog can be foundin the Kanban board, which applies for all repos.
+6. The product backlog can be found in the Kanban board, which applies for all repos: https://github.com/orgs/Moviles-2025-20/projects/6
 
 This repository was created for the Mobile Application Development class for the 2025-20 semester.
